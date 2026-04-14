@@ -27,13 +27,5 @@ Gitee地址：[https://gitee.com/NanGePlus/CursorAICoding](https://gitee.com/Nan
 GitHub地址：[https://github.com/NanGePlus](https://github.com/NanGePlus)
 Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 
----
-
-## 适合的小伙伴
-
-- 希望用 **飞书（含 Lark，其他也类似）** 作为入口，驱动 **带工具与记忆的智能体** 的开发者、运营与重度个人用户。  
-- 已具备基础 AI 对话能力，愿意按后续文档完成 **Node 环境、API Key、插件配置** 等的动手型小伙伴。  
-- 能接受「先跑通再优化」：先让 Gateway 与飞书绿通，再迭代工作区与定时任务，最后渐进式迭代。
-
 
 
