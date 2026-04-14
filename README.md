@@ -1,16 +1,3 @@
-# 零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环
-
-## 本系列视频定位
-
-会先帮助大家建立对 OpenClaw **自托管 Gateway** 的整体认识，接着完成**环境准备、安装部署、飞书接入**，再用 **工作区 Markdown** 固化人设与记忆，最后通过**资讯简报、公众号采集、对话装 Skill** 三个场景完成能力跑通。后续还会持续更新，让大家在能力跑通之后也能获得最新内容。
-
-### 本系列仓库位置
-
-以下仓库存储我在YouTube频道和B站频道关于零基础上手 OpenClaw 实战相关分享所有源文件，均开源免费  
-
-- GitHub地址: [https://github.com/NanGePlus/OpenClawTutorial](https://github.com/NanGePlus/OpenClawTutorial)
-- Gitee地址: [https://gitee.com/NanGePlus/OpenClawTutorial](https://gitee.com/NanGePlus/OpenClawTutorial)
-
 ### 我的个人信息
 
 - YouTube频道(@南哥AGI研习社)：[https://www.youtube.com/channel/UChKJGiX5ddrIpJG-rBNVZ5g](https://www.youtube.com/channel/UChKJGiX5ddrIpJG-rBNVZ5g)
